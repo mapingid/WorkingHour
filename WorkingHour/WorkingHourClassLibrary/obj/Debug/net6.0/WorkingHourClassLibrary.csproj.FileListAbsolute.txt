@@ -1,0 +1,12 @@
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\bin\Debug\net6.0\WorkingHourClassLibrary.deps.json
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\bin\Debug\net6.0\WorkingHourClassLibrary.dll
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\bin\Debug\net6.0\WorkingHourClassLibrary.pdb
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.csproj.AssemblyReference.cache
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.AssemblyInfoInputs.cache
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.AssemblyInfo.cs
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.csproj.CoreCompileInputs.cache
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.dll
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\refint\WorkingHourClassLibrary.dll
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\WorkingHourClassLibrary.pdb
+D:\WorkingHour\WorkingHour\WorkingHourClassLibrary\obj\Debug\net6.0\ref\WorkingHourClassLibrary.dll

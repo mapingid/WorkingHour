@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkingHour/1.0.0": {
+        "dependencies": {
+          "WorkingHourClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WorkingHour.dll": {}
+        }
+      },
+      "WorkingHourClassLibrary/1.0.0": {
+        "runtime": {
+          "WorkingHourClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkingHour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkingHourClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
