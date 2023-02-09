@@ -128,11 +128,8 @@ namespace WorkingHourClassLibrary
     {
       Register( 09, 37, 23 );
       Register( 10, 1, 24 );
-
-
       GetDailyRecommendation( 7, 36, 48 );
       GetLeftWorkingHour();
-
     }
 
 
